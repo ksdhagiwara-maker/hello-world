@@ -9,5 +9,5 @@ GitHub と Git の学習用リポジトリです。
 
 ## 使い方
 ```bash
-git clone git@github.com:your-username/hello-world.git
+git clone git@github.com:ksdhagiwara-maker/hello-world.git
 cd hello-world
