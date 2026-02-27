@@ -1,2 +1,5 @@
-Hello, git!
-Updated on GitHub!
+Hello, Git!
+This is my first Git project.
+I'm learning Git and GitHub.
+I'm excited to learn more!
+Branch development is fun!
